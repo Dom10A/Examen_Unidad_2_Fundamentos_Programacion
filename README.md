@@ -379,6 +379,7 @@ Programa 10
 Pedir al usuario que digite una palabra. luego mostrar la palabra invertida y
 comprobar si es capicúa
 Código 
+
 //EJERCICIO 2 DOMINIC_COLLAGUAZO_:)//
 //Pedir al usuario que digite una palabra. luego mostrar la palabra invertida y//
 //comprobar si es capicúa//
